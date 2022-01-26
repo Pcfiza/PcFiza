@@ -32,7 +32,8 @@
 <h3>Javascript</h3>
 <p>Javascript is the programming language used in web-application (mostly), javascript is an engien while color and look is css and its structure </p>
 
-
+<h3>C++</h3>
+<p>Javascript and HTML are beautiful for Developing Web-application, Javascript can be used as backend Programming through using Nodejs but i remember one thing that javascript interpreter is made in C++ mean C++ is the programming language which is powerful and Natively gives full power of hardware resources, i do not want to just rely on browser, i want to learn Native programming for better performance</p>
 
 
 
