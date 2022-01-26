@@ -12,3 +12,28 @@
 
 <p>i am Developing Fiza JS, a Light-weight Javascript Library helps your web-development Faster and Easy through Decreasing Complexities of Javascript Functions and Methods </p>
 
+<p> i have following skills which make me better and productive </p>
+
+<ul>
+  
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+  <li>MYSQL</li>
+  <li>C++</li>
+</ul>
+
+<hr />
+
+<h3>HTML-CSs</h3>
+<p> i know basic HTML (HTML5) and i have been using HTML5 tags to Develop my Website and Web-application, Basic knowledge of HTML is required for any Web Developer before Learning any web programming , CSS Helps add style,color and fancy things but it can't Add Logic or power of programming, for add programming power we have to use Javascript </p>
+
+<h3>Javascript</h3>
+<p>Javascript is the programming language used in web-application (mostly), javascript is an engien while color and look is css and its structure </p>
+
+
+
+
+
+
