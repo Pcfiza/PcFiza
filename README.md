@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Fiza Sheikh</h1>
 
-<!--
-**Pcfiza/PcFiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About Me </h3>
+<p>Welcome and Thanks for visiting my Github Profile, i am Fiza Sheikh and having following skills</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>HTML </li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>MYSQL</li>
+  <li>Linux</li>
+  
+  </ul>
